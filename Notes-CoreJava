@@ -1,2 +1,12 @@
 1. PassByValue / PassByCopy Example : Primitive data type
 2. PassByReference : Ex : changeAuthor(b); : objects
+3. Operator precedence
+    3a. Postfix  > prefix > multiplicative > additive
+    3b. if 2 operators have equals precedence then left to right
+    3c. override precedence using parenthesis ()
+4. types of brackets
+    round brackets  ()
+    square brackets []
+    curly brackets  {}
+    angle brackets  <>
+
