@@ -1,4 +1,4 @@
-package com.nsv.digital.corejava.demo;
+package com.nsv.digital.corejava.demo.passbyvalue;
 
 public class PassByValueORPassByCopy {
 
