@@ -1,0 +1,2 @@
+1. PassByValue / PassByCopy Example : Primitive data type
+2. PassByReference : Ex : changeAuthor(b); : objects
